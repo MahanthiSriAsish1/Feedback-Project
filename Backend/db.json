@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "userName": "asishsrimahanthi",
+      "firstName": "asish",
+      "lastName": "mahanthi",
+      "email": "asishsrimahanthi@gmail.com",
+      "password": "helloworld@123",
+      "confPassword": "helloworld@123"
+    }
+  ],
+  "Teachers": [
+    {
+      "id": "1",
+      "name": "Vittal Guthe",
+      "subject": "Analysis of Algorithms",
+      "panel": "c"
+    }
+  ],
+  "Doubts": [
+    {}
+  ]
+}
